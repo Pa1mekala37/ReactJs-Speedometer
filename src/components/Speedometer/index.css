@@ -1,0 +1,37 @@
+body {
+  background-color: #07080c;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: #ffffff;
+}
+p {
+  color: #ffffff;
+}
+img {
+  width: 50%;
+}
+button {
+  width: 100px;
+  padding: 10px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-size: 10px;
+}
+.acceleratebtn {
+  background-color: #0b69ff;
+  border: 0px none;
+}
+.applybrakebtn {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  margin-left: 5px;
+}
